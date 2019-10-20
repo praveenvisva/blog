@@ -1,2 +1,2 @@
 # django_blog
-blog developed using djano
+blog developed using django
